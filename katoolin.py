@@ -18,6 +18,7 @@ def main():
 
 
  \033[1;32m+ -- -- +=[ Author: LionSec | Homepage: www.lionsec.net\033[1;m
+ \033[1;32m+ -- -- +=[ Update: Alvaro Samudio (G4SP3R)\033[1;m 
  \033[1;32m+ -- -- +=[ 331 Tools \033[1;m
 
 
